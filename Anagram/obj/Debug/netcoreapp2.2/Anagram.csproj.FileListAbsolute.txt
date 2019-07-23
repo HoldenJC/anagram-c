@@ -1,0 +1,11 @@
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\bin\Debug\netcoreapp2.2\Anagram.deps.json
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\bin\Debug\netcoreapp2.2\Anagram.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\bin\Debug\netcoreapp2.2\Anagram.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\bin\Debug\netcoreapp2.2\Anagram.dll
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\bin\Debug\netcoreapp2.2\Anagram.pdb
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.dll
+C:\Users\Holde\desktop\coding\Anagram.Solution\Anagram\obj\Debug\netcoreapp2.2\Anagram.pdb
